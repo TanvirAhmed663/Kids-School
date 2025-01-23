@@ -1,0 +1,274 @@
+
+
+
+.quicksand{
+  font-family: "Quicksand", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+body{
+    width: auto;
+    height: auto;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    /* width: 1160px; */
+    height: 62px;
+    margin: 20px 140px;
+    align-items: center;
+}
+.nav1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 62px;
+    width: 62px;
+    font-size: 32px;
+}
+.nav2{
+    display: flex;
+    justify-content: space-between;
+    gap: 24px;
+    height: 30px;
+}
+.nav-2-home{
+    color: #FEA301;
+}
+.nav-2-about{
+    color: #01ACFD;
+}
+.nav-2-facilities{
+    color: #05D4DF;
+}
+.nav-2-admission{
+    color: #5D58EF;
+}
+a{
+    text-decoration: none;
+
+}
+.nav3{
+    display: flex;
+    justify-content: space-between;
+    width: 197px;
+    height: 62px;
+}
+.contact-1{
+    
+    height: 50px;
+    width: 197px;
+    background-color: #FEA301;
+    color: white;
+    font-weight: 700;
+    border-radius: 12px;
+    
+
+}
+.section-1{
+    width: 80%; 
+    height: 575px;
+    display: flex;
+    margin: auto;
+    gap: 270px;
+    align-items: center;
+}
+
+.section{
+     width: 540px;
+    height: 331px;
+    margin-left: 0px;
+    align-items: center;
+ 
+
+}
+.section-h3{
+    font-weight: bold;
+    font-size: 50px;
+}
+.span1{
+    color: #FEA301;
+}
+.span2{
+    color: #01ACFD;
+}
+.section-btn{
+    background-color: black;
+    color: white;
+    width: 197px;
+    height: 50px;
+    border-radius: 12px;
+}
+.section-1-img{
+    width: 468px;
+    height: 575px;
+
+}
+
+
+
+.section-2{
+    background-image: url(../assets/bg.png);
+    background-color: #FFD180;
+    height: 879px;
+   
+}
+.section-2-h3{
+    font-weight: bold;
+    font-size: 46px;
+    text-align: center;
+}
+.sectio{
+    display: flex;
+    width: 1160px;
+    height: 481px;
+    margin: auto;
+    gap: 28px;
+    
+    text-align: center;
+}
+.card-1{
+    align-items: center;
+    background-color: #DEF5FF;
+    padding: 40px;
+}
+.card-2{
+    background-color: #FFF4DC;
+    padding: 40px;
+}
+.card-3{
+    background-color: #F2E8FF;
+    padding: 40px;
+}
+.card-h4{
+    font-weight: bold;
+    font-size: 25px;
+}
+.card-p{
+    font-weight: 600px;
+    font-size: 16px;
+}
+.read-more-btn-1{
+    border: none;
+    background-color: #DEF5FF;
+    color: #64C8FF;
+    font-weight: bold;
+}
+.read-more-btn-2{
+    border: none;
+    background-color: #FFF4DC;
+    color: #F0AA00;
+    font-weight: bold;
+}
+.read-more-btn-3 {
+    border: none;
+    background-color: #F2E8FF;
+    color: #8700FF;
+    
+    font-weight: bold;
+}
+
+.section-3{
+    height: 1018px;
+    background-image:url(../assets/bg.png);
+    background-color: #efcc8f;
+     padding-top: 197px;
+    
+
+}
+.section-3-h3{
+    text-align: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 46px;
+    margin: top 0;
+}
+.secti{
+    text-align: center;
+    align-items: center;
+    width: 1160px;
+    margin: auto;
+    height: 630px;
+    gap: 18px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.story1{
+    width: 540px;
+    height: 630px;
+}
+.story-h2{
+    text-align: left;
+    
+}
+.story-p{
+    text-align: left;
+}
+.section3-story1-btn{
+    height: 48px;
+    width: 175px;
+    background-color: #3CD8E8;
+    color: white;
+    margin-left: -338px;
+    
+    border: none;
+    border-radius: 47px;
+
+}
+.story2_3_4_5{
+    width: 601px;
+    height: 622px;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 18px;
+
+}
+.story2_3{
+    width: 290px;
+    height: 301px; 
+    border-radius: 12px;
+    gap: 12px;
+    justify-content: space-between;
+    display: flex;
+}
+.story4_5{
+    width: 290px;
+    height: 301px;
+    gap: 12px;
+    justify-content: space-between;
+    display: flex;
+}
+.view{
+    background-color: black;
+    color: white;
+    align-items: center;
+    margin: auto;
+    text-align: center;
+    width: 197px;
+    height: 50px;
+    border-radius: 12px;
+   
+}
+.view-btn{
+    align-items: center;
+    text-align: center;
+    margin-top: 5%;
+    font-weight: bold;
+    font-size: 30px;
+}
+.footer{
+    height: 539px;
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 140px;
+    align-items: center;
+    background-color: #01ACFD;
+}
+.first-footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
