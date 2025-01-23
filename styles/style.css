@@ -64,6 +64,7 @@ a{
     color: white;
     font-weight: 700;
     border-radius: 12px;
+    border: none;
     
 
 }
@@ -260,15 +261,40 @@ a{
     font-size: 30px;
 }
 .footer{
-    height: 539px;
-    display: flex;
-    justify-content: space-between;
-    margin: 20px 140px;
-    align-items: center;
+    height: 519px;
     background-color: #01ACFD;
-}
-.first-footer{
+    color: white;
+    margin: auto;
     display: flex;
-    justify-content: space-between;
     align-items: center;
+    text-align: center;
+    padding: 25px;
+    justify-content: space-between;
+}
+.footer-p{
+    text-align: left;
+}
+.f1-1{
+    display: flex;
+    width: 300px;
+    height: 100px;
+    text-align: left;
+}
+.f1-1{
+    margin: auto;
+}
+ul li{
+    list-style: none;
+    color: white;
+}
+.f2{
+    /* padding: 25px; */
+    text-align: left;
+    align-items: center;
+    
+}
+.f3{
+    text-align: left;
+    align-items: center;
+    width: 200px;
 }
